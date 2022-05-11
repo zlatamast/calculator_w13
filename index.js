@@ -17,3 +17,4 @@ function calcMult() {
 function calcDiv() {
     alert( +a / +b );
 };
+
